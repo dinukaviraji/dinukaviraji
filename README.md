@@ -1,4 +1,4 @@
-# Hi, I'm Dinuka Viraji👋 
+# Hi, I'm Dinuka Viraji
 I'm a passionate software developer who loves building innovative solutions.
 
 - 🔭 I’m currently exploring **full-stack development and enhancing my web skills**
