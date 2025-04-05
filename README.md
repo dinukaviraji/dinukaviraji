@@ -4,7 +4,7 @@ I'm a passionate software developer who loves building innovative solutions.
 - 🌱 I’m currently **growing as a full-stack developer**
 - 👯 I’m looking to collaborate on **real-world projects**
 - 💬 Ask me about **Web Development, React, Angular and Springboot**
-- ⚡I'm currently learning ** Machine Learning **
+- ⚡I'm currently learning **Machine Learning**
 - 📫 How to reach me: dinukaviraji123@gmail.com
 - 🥰 Fun fact: *I love food, just looove it!* 🍫🍰🍕🍹
 
